@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1665488638,,"wq"
+|2,0,1665589078,,"wq"
 :q!
 |2,0,1665447796,,"q!"
 :!qw
@@ -38,36 +38,52 @@
 |3,1,36,0,1,0,1665465849,"l"
 
 # File marks:
-'0  2  6  /alx-zero_day/0x03-git/js/js
-|4,48,2,6,1665488638,"/alx-zero_day/0x03-git/js/js"
-'1  2  5  /alx-zero_day/0x03-git/bash/school
-|4,49,2,5,1665487656,"/alx-zero_day/0x03-git/bash/school"
-'2  2  2  /alx-zero_day/0x03-git/bash/alx
-|4,50,2,2,1665487574,"/alx-zero_day/0x03-git/bash/alx"
-'3  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
-|4,51,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
-'4  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,52,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
-'5  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,53,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
-'6  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,54,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
-'7  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,55,2,0,1665447716,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
+'0  2  5  ~/alx-system_engineering-devops/0x02-shell_redirections/0-current_working_directory
+|4,48,2,5,1665589078,"~/alx-system_engineering-devops/0x02-shell_redirections/0-current_working_directory"
+'1  2  6  /alx-zero_day/0x03-git/js/js
+|4,49,2,6,1665488638,"/alx-zero_day/0x03-git/js/js"
+'2  2  5  /alx-zero_day/0x03-git/bash/school
+|4,50,2,5,1665487656,"/alx-zero_day/0x03-git/bash/school"
+'3  2  2  /alx-zero_day/0x03-git/bash/alx
+|4,51,2,2,1665487574,"/alx-zero_day/0x03-git/bash/alx"
+'4  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,52,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+'5  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,53,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'6  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,54,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'7  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+|4,55,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
 '8  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
 |4,56,2,0,1665447716,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
-'9  1  5  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
-|4,57,1,5,1665440549,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+'9  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+|4,57,2,0,1665447716,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
 
 # Jumplist (newest first):
+-'  2  5  ~/alx-system_engineering-devops/0x02-shell_redirections/0-current_working_directory
+|4,39,2,5,1665589078,"~/alx-system_engineering-devops/0x02-shell_redirections/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-current_working_directory
+|4,39,1,0,1665588968,"~/alx-system_engineering-devops/0x02-shell_redirections/0-current_working_directory"
 -'  2  6  /alx-zero_day/0x03-git/js/js
 |4,39,2,6,1665488638,"/alx-zero_day/0x03-git/js/js"
+-'  2  6  /alx-zero_day/0x03-git/js/js
+|4,39,2,6,1665488638,"/alx-zero_day/0x03-git/js/js"
+-'  1  0  /alx-zero_day/0x03-git/js/js
+|4,39,1,0,1665488601,"/alx-zero_day/0x03-git/js/js"
 -'  1  0  /alx-zero_day/0x03-git/js/js
 |4,39,1,0,1665488601,"/alx-zero_day/0x03-git/js/js"
 -'  2  5  /alx-zero_day/0x03-git/bash/school
 |4,39,2,5,1665487656,"/alx-zero_day/0x03-git/bash/school"
 -'  2  5  /alx-zero_day/0x03-git/bash/school
 |4,39,2,5,1665487656,"/alx-zero_day/0x03-git/bash/school"
+-'  2  5  /alx-zero_day/0x03-git/bash/school
+|4,39,2,5,1665487656,"/alx-zero_day/0x03-git/bash/school"
+-'  2  5  /alx-zero_day/0x03-git/bash/school
+|4,39,2,5,1665487656,"/alx-zero_day/0x03-git/bash/school"
+-'  1  0  /alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1665487600,"/alx-zero_day/0x03-git/bash/school"
+-'  1  0  /alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1665487600,"/alx-zero_day/0x03-git/bash/school"
 -'  1  0  /alx-zero_day/0x03-git/bash/school
 |4,39,1,0,1665487600,"/alx-zero_day/0x03-git/bash/school"
 -'  1  0  /alx-zero_day/0x03-git/bash/school
@@ -80,6 +96,22 @@
 |4,39,2,2,1665487574,"/alx-zero_day/0x03-git/bash/alx"
 -'  2  2  /alx-zero_day/0x03-git/bash/alx
 |4,39,2,2,1665487574,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  2  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,2,1665487574,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  2  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,2,1665487574,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  2  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,2,1665487574,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  2  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,2,1665487574,"/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  /alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1665487495,"/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  /alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1665487495,"/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  /alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1665487495,"/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  /alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1665487495,"/alx-zero_day/0x03-git/bash/alx"
 -'  1  0  /alx-zero_day/0x03-git/bash/alx
 |4,39,1,0,1665487495,"/alx-zero_day/0x03-git/bash/alx"
 -'  1  0  /alx-zero_day/0x03-git/bash/alx
@@ -104,6 +136,54 @@
 |4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
 -'  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
 |4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  8  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,8,1665466641,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
 |4,39,2,21,1665466241,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  2  21  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
@@ -168,100 +248,29 @@
 |4,39,1,0,1665466026,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
 |4,39,1,0,1665466026,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  2  4  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,2,4,1665465881,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+|4,39,1,0,1665466026,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+|4,39,1,0,1665466026,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+|4,39,1,0,1665466026,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+|4,39,1,0,1665466026,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+|4,39,1,0,1665466026,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1665465836,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1665447796,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
+|4,39,1,0,1665466026,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/0-current_working_directory
+	*	1665589065	0
+	"	2	5
+	^	2	6
+	.	2	0
+	+	2	0
+	+	1	11
+	+	2	0
 
 > /alx-zero_day/0x03-git/js/js
 	*	1665488634	0
